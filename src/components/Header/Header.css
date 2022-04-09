@@ -1,0 +1,17 @@
+.header-container {
+      margin-top: 10px;
+}
+
+.header-container nav a{
+     margin-right: 20px;
+     
+     font-style: inherit;
+     text-decoration: none;
+     font-size: 25px;
+}
+
+.header-container nav a:hover{
+      color: orange;
+      font-size: 28px;
+      font-weight: 700;
+}
